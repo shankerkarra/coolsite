@@ -2,10 +2,14 @@
   text-align:centre;
   margin: 3px;
   border: 1px;
+  width: 100px; 
+  height: 100px; 
  }
 #footer{
  margin: 5px;
  border: 1px;
+ width: 200px; 
+height: 200px; 
   }
 .blue {
   background: hsla(229, 100%, 54%, 0.89);
