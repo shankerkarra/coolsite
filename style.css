@@ -32,6 +32,7 @@ font-weight: bolder;
 }
 .section {
   padding-right: 10rem;
+  align-content: center;
 }
 .bold{
  text-align: center;
