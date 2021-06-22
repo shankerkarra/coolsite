@@ -29,8 +29,9 @@ font-weight: bolder;
 .d-flex {
   display: flex;
   padding-top: 30px;
-}
+  }
 .section {
+  padding-block:initial;
   Padding-top: 10px;
   padding-left:200%;
   padding-right: 10px;
