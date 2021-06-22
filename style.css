@@ -1,11 +1,12 @@
 *{
   outline: 1px solid red;
 }
-
-
 #header{
  text-align: center;
   height: 40px; 
+ }
+ #headertext{
+ text-align: center;
  }
 #footer{
 height: 100px; 
@@ -15,6 +16,9 @@ height: 100px;
   }
 .blue {
   background: hsla(229, 100%, 54%, 0.89);
+}
+.white {
+  color:white;
 }
 .textbold{
 font-weight: bolder;
