@@ -31,9 +31,10 @@ font-weight: bolder;
   padding-top: 30px;
 }
 .section {
-  padding-right: 10rem;
-  align-content: center;
-}
+  Padding-top: 10px;
+  padding-left:200%;
+  padding-right: 10px;
+  }
 .bold{
  text-align: center;
  font-size: 0vw;
