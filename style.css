@@ -60,3 +60,11 @@ font-weight: bolder;
   margin-right: auto;
   width: 50%;
 }
+
+.gutter{
+  margin: 0;
+}
+
+.content{
+  text-align: center;
+}
