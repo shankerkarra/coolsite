@@ -10,7 +10,10 @@
  }
 #footer{
 height: 100px; 
-  }
+  } 
+#mainheader{
+  height: 10px; 
+ }
 .lightblue{
   background-color: rgb(0, 183, 255);
   }
