@@ -50,6 +50,7 @@ font-weight: bolder;
   padding-left: 89px;
 }
 .sectioncolumn{
+  align-content: center;
   width:30%;
   padding-left: 20px;
   padding-right: 20px;
