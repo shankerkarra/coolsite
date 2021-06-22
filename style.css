@@ -1,11 +1,12 @@
 #header{
   text-align: centre;
   margin: 3px;
-  border: 1px solid rgba(0, 0, 0, .2);
+  border: 1px;
  }
 #footer{
- border: 10px solid rgba(0, 0, 0, .2);
+  margin: 5px;
+ border: 1px;
   }
 .blue {
-  background: hsl(239, 100%, 54%);
+  background: hsla(229, 100%, 54%, 0.89);
 }
