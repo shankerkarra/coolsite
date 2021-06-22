@@ -1,10 +1,10 @@
 #header{
   text-align: centre;
-  margin: 5px;
+  margin: 3px;
   border: 1px solid rgba(0, 0, 0, .2);
  }
 #footer{
- border: 1px solid rgba(0, 0, 0, .2);
+ border: 10px solid rgba(0, 0, 0, .2);
   }
 .blue {
   background: hsl(239, 100%, 54%);
