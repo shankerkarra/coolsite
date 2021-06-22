@@ -1,3 +1,8 @@
+*{
+  outline: 1px solid red;
+}
+
+
 #header{
  text-align: center;
   height: 40px; 
@@ -11,10 +16,12 @@ height: 100px;
 .blue {
   background: hsla(229, 100%, 54%, 0.89);
 }
-*{
-  outline: 1px solid red;
-}
-
 .textbold{
 font-weight: bolder;
+}
+.d-flex {
+  display: flex;
+}
+section {
+  padding-right: 0rem;
 }
