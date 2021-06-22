@@ -5,10 +5,12 @@
 #footer{
 height: 100px; 
   }
+.lightblue{
+  background-color: rgb(0, 183, 255);
+  }
 .blue {
   background: hsla(229, 100%, 54%, 0.89);
 }
-
 *{
   outline: 1px solid red;
 }
