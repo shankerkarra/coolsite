@@ -55,3 +55,8 @@ font-weight: bolder;
   padding-left: 20px;
   padding-right: 20px;
 }
+.imgcenter{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
