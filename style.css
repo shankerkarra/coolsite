@@ -28,8 +28,9 @@ font-weight: bolder;
 }
 .d-flex {
   display: flex;
+  padding-top: 30px;
 }
-section {
+.section {
   padding-right: 0rem;
 }
 .bold{
