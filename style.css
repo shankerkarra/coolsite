@@ -1,8 +1,7 @@
 #header{
- color: blue;
+ background-color: blue;
   text-align: centre;
-  border: 1px solid Blue 
-}
+ }
 #footer{
   background-color: blue;
 }
