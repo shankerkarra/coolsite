@@ -1,12 +1,16 @@
 #header{
-  text-align: centre;
+  text-align:centre;
   margin: 3px;
   border: 1px;
  }
 #footer{
-  margin: 5px;
+ margin: 5px;
  border: 1px;
   }
 .blue {
   background: hsla(229, 100%, 54%, 0.89);
+}
+
+*{
+  outline: 1px solid red;
 }
