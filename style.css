@@ -11,7 +11,7 @@
 #footer{
 height: 100px; 
   } 
-#mainheader{
+.mainheader{
   height: 10px; 
  }
 .lightblue{
@@ -38,4 +38,13 @@ font-weight: bolder;
  text-align: center;
  font-size: 0vw;
  font-weight: normal;
+}
+.leftside{
+  padding: 20px 20px;
+}
+.maincolumn{
+  width:70%;
+}
+.sectioncolumn{
+  width:30%;
 }
